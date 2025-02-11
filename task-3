@@ -1,0 +1,2188 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+<title>bbd University</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="https://factstranscript.com/wp-content/uploads/2022/02/Babu-Banarasi-Das-University.jpg" type="image/x-icon" />
+<link rel="stylesheet" href="/public/css/bootstrap.min.css">
+<link rel="stylesheet" href="/public/css/index.css">
+<link rel="stylesheet" href="/public/css/responsive.css">
+<script src="/public/js/modernizer.js"></script>
+</head>
+<STYLE>
+    .mySlides {display: none}
+    img {vertical-align: middle;}
+
+
+    .slideshow-container {
+        max-width: 1000px;
+        position: relative;
+        margin: auto;
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+        cursor: pointer;
+        position: absolute;
+        top: 50%;
+        width: auto;
+        padding: 16px;
+        margin-top: -22px;
+        color: white;
+        font-weight: bold;
+        font-size: 18px;
+        transition: 0.6s ease;
+        border-radius: 0 3px 3px 0;
+        user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+        right: 0;
+        border-radius: 3px 0 0 3px;
+    }
+
+    /* On hover, add a black background color with a little bit see-through */
+    .prev:hover, .next:hover {
+        background-color: rgba(0,0,0,0.8);
+    }
+
+    /* Caption text */
+    .text {
+        color: #f2f2f2;
+        font-size: 15px;
+        padding: 8px 12px;
+        position: absolute;
+        bottom: 8px;
+        width: 100%;
+        text-align: center;
+    }
+
+    /* Number text (1/3 etc) */
+    .numbertext {
+        color: #f2f2f2;
+        font-size: 12px;
+        padding: 8px 12px;
+        position: absolute;
+        top: 0;
+    }
+
+    /* The dots/bullets/indicators */
+    .dot {
+        cursor: pointer;
+        height: 15px;
+        width: 15px;
+        margin: 0 2px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+        transition: background-color 0.6s ease;
+    }
+
+    .active, .dot:hover {
+        background-color: #717171;
+    }
+
+
+    .fade {
+        animation-name: fade;
+        animation-duration: 1.5s;
+    }
+
+    @keyframes fade {
+        from {opacity: .4}
+        to {opacity: 1}
+    }
+
+    /* On smaller screens, decrease text size */
+    @media only screen and (max-width: 300px) {
+        .prev, .next,.text {font-size: 11px}
+    }
+    FOOTER{border:0PX SOLID #333;padding:15PX ;width:1500PX;display:grid;grid-gap: 20px ;font-variant: small-caps;grid-template-columns: repeat(5,1fr);text-align: left;
+        margin-top: 400px; color: #ffffff
+    }
+    section p:first-child{font: 1em sans-serif;font-weight: bolder;font-size: xx-large;font-variant: small-caps;}
+    section{text-align: center ;text-decoration: solid; margin-top:35px ;}
+
+    .latest-news{
+        margin-left:10px;
+        margin-right:10px;
+        background:#fff;
+        padding:20px;
+        height:350px;
+        margin-bottom:30px;
+    }
+    .event-list{
+        margin-left:10px;
+        margin-right:10px;
+        background:#fff;
+        padding:20px;
+        height:350px;
+        margin-bottom:30px;
+    }
+    .notice-board{
+        margin-left:10px;
+        margin-right:10px;
+        background:#fff;
+        padding:20px;
+        height:350px;
+        margin-bottom:30px;
+    }
+    .our-principal{
+        margin-left:10px;
+        margin-right:10px;
+        background:#fff;
+        padding:20px;
+        height:350px;
+        margin-bottom:30px;
+    }
+    .about-us{
+        margin-left:10px;
+        margin-right:10px;
+        background:#fff;
+        padding:20px;
+        height:350px;
+        margin-bottom:30px;
+    }
+    .certificate{
+        margin-left:10px;
+        margin-right:10px;
+        background:#fff;
+        padding:20px;
+        height:350px;
+        margin-bottom:30px;
+    }
+    .heading-sect{
+        width: 100%;
+        float: left;
+        border-bottom: 1px solid #cfcfcf;
+        padding-bottom: 0px;
+        margin: 0px;
+        margin-bottom: 15px;
+        padding-top: 2px;
+        border: 1px solid #cfcfcf;
+        padding-bottom: 10px;
+        padding-top: 15px;
+        padding-left: 15px;
+        background: #00aed9;
+        color:white;
+    }
+    .heading-sect h3{
+        color:white;
+    }
+    .head-title {
+        margin: 0px;
+        padding: 0px;
+        font-size: 16px;
+        font-weight: 600;
+        font-family:'Roboto', sans-serif!important;
+        color: #2196f3;
+        padding-bottom: 5px;
+    }
+    .upcoming-event-list li {
+        width: 100%;
+        float: left;
+        margin-bottom: 15px;
+    }
+    .upcoming-event-list{
+        padding:0px;
+        list-style:none;
+    }
+    .event-date {
+        background: #03a9f4;
+        width: 30px;
+        float: left;
+        text-align: center;
+        font-size:14px;
+        color: #fff;
+        padding:8px;
+        margin-right: 10px;
+    }
+    .notice-board-list li {
+        width: 100%;
+        float: left;
+        margin-bottom: 15px;
+    }
+    .notice-board-list{
+        padding:0px;
+        list-style:none;
+    }
+    .latest-news-ul{
+        padding:0px;
+        list-style:none;
+        line-height: 40px;
+    }
+
+    input[type=text], select, textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+    }
+
+    input[type=submit] {
+        background-color: #026c45;
+        color: rgba(244, 243, 246, 0.33);
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    input[type=submit]:hover {
+        background-color: #06d50e;
+    }
+
+    .container2 {
+        border-radius: 5px;
+        background-color: rgba(244, 243, 246, 0.33);
+        padding: 20px;
+    }
+
+</STYLE>
+<body>
+<header class="top-navbar">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/index.html">
+                <img id="nav-logo" width="80px" src="https://factstranscript.com/wp-content/uploads/2022/02/Babu-Banarasi-Das-University.jpg" alt="" />
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-host" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbars-host">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active" style="text-decoration: none;background-color: #02063c"><a class="nav-link" style="text-decoration: none; background-color: #02063c" href="">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/about.html">About Us</a></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Departments</a>
+                        <div class="dropdown-menu" aria-labelledby="dropdown-a" style="color:#eeebf3">
+                            <a  style="color:#eeebf3" class="dropdown-item" href="/pages/department-grid-1.html" target="_blank">Computer Science and Engineering</a>
+                            <a style="color:#eeebf3" class="dropdown-item" href="/pages/department-grid-2.html" target="_blank">Information Science</a>
+                            <a style="color:#eeebf3"  class="dropdown-item" href="/pages/department-grid-3.html" target="_blank">Electrical and Electronics Engineering</a>
+                             <a style="color:#eeebf3" class="dropdown-item" href="/pages/department-grid-5.html" target="_blank">Mechanical Engineering</a>
+                            <a style="color:#eeebf3" class="dropdown-item" href="/pages/department-grid-6.html" target="_blank">Electronics and Communication Engineering</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" href="/facilities.html">Facilities</a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="/research.html">Research</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/admission.html">Admission</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/contact.html">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+<div class="carousel slide bs-slider box-slider">
+    <div id="home" class="first-section" style="background-image:url(https://i.ytimg.com/vi/M5dBUJ4wuEA/maxresdefault.jpg);">
+        <div class="dtab">
+            <div class="container">
+                <div class="col-md-12 col-sm-12 text-right">
+                    <div class="banner">
+                        <h2 id="banner-h2">Admission for 2025-26 are now open</h2>
+                        <table>
+                            <tr>
+
+                                <td class="banner-td">EDUCATIONAL-GROUP</td>
+                                <td class="name" colspan="2">BBD-UNIVERSITY</td>
+                                <td></td>
+                                <td class="name">LUCKNOW</td>
+                            </tr>
+                            <tr>
+                                <td class="banner-td">COLLEGE</td>
+                                <td class="name" colspan="2">BBD ENGINEERING COLLEGE</td>
+                                <td></td>
+                                <td class="name">AKTU AFFILIATED</td>
+                            </tr>
+                            <tr>
+                                <td class="banner-td">LUCKNOW</td>
+                                <td class="name" colspan="2">BBD ITM COLLEGE</td>
+                                <td></td>
+                                <td class="name" >AKTU AFFILIATED</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="slideshow-container" style="margin-top: 100px;margin-left: 0px">
+
+    <div class="mySlides fade">
+        <div class="numbertext">1 / 9</div>
+        <img src="https://bbdu.ac.in/wp-content/uploads/2025/01/admission-banner-jan.jpg" style="width:1500px;height: 600px">
+        <div class="text">BBD EDUCATIONAL GROUPS</div>
+    </div>
+
+    <div class="mySlides fade">
+        <div class="numbertext">2 / 9</div>
+        <img src="https://bbdu.ac.in/wp-content/uploads/2025/01/bbdu-utkarsh-2025.jpg" style="width:1500px;height: 600px">
+        <div class="text">UTKARSH-2025</div>
+    </div>
+
+    <div class="mySlides fade">
+        <div class="numbertext">3 / 9</div>
+        <img src="https://bbdu.ac.in/wp-content/uploads/2024/12/hdr-1.jpg" style="width:1500px;height: 600px">
+        <div class="text">bbd award</div>
+    </div>
+    <div class="mySlides fade">
+        <div class="numbertext">4 / 9</div>
+        <img src="https://bbdu.ac.in/wp-content/uploads/2023/12/hdr-viksit-bharat.jpg" style="width:1500px;height: 600px">
+        <div class="text">bbd award</div>
+    </div>
+    <div class="mySlides fade">
+        <div class="numbertext">5 / 9</div>
+        <img src="https://bbdu.ac.in/wp-content/uploads/2024/12/hdr-ibm.jpg" style="width:1500px;height: 600px">
+        <div class="text">bbd award</div>
+    </div>
+    <div class="mySlides fade">
+        <div class="numbertext">6/ 9</div>
+        <img src="https://bbdu.ac.in/wp-content/uploads/2021/07/ncc-activities.jpg" style="width:1500px;height: 600px">
+        <div class="text">bbd award</div>
+    </div>
+    <div class="mySlides fade">
+        <div class="numbertext">7 / 9</div>
+        <img src="https://bbdu.ac.in/wp-content/uploads/2024/12/hdr-ncc.jpg" style="width:1500px;height: 600px">
+        <div class="text">bbd award</div>
+    </div>
+    <div class="mySlides fade">
+        <div class="numbertext">8 / 9</div>
+        <img src="https://bbdu.ac.in/wp-content/uploads/bfi_thumb/77-qtqtwwlobr13p22um4mg3wqk82yn2fd0eka6o3uilc.jpg" style="width:1500px;height: 600px">
+        <div class="text">bbd award</div>
+    </div>
+    <div class="mySlides fade">
+        <div class="numbertext">9/ 9</div>
+        <img src="https://bbdu.ac.in/wp-content/uploads/2024/11/whatsapp-image-2024-11-14-at-2.26.10-am.jpeg" style="width:1500px;height: 600px">
+        <div class="text">bbd award</div>
+    </div>
+    <a class="prev" onclick="plusSlides(-1)">❮</a>
+    <a class="next" onclick="plusSlides(1)">❯</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+    <span class="dot" onclick="currentSlide(1)"></span>
+    <span class="dot" onclick="currentSlide(2)"></span>
+    <span class="dot" onclick="currentSlide(3)"></span>
+    <span class="dot" onclick="currentSlide(4)"></span>
+    <span class="dot" onclick="currentSlide(5)"></span>
+    <span class="dot" onclick="currentSlide(6)"></span>
+    <span class="dot" onclick="currentSlide(7)"></span>
+    <span class="dot" onclick="currentSlide(8)"></span>
+    <span class="dot" onclick="currentSlide(9)"></span>
+</div>
+<section>
+    <h1 STYLE="margin-top: 100px;text-align: center;background-color: #0d4fe9;font-size: xxx-large;font-weight: bolder">TOP COMPANIES </h1>
+  <img src="https://www.edufever.com/wp-content/uploads/2022/05/SNU-Chennai-1-1024x334.jpg"   width="1500px" height="500px">
+</section>
+<div id="overviews" class="section wb">
+    <div class="container">
+        <div class="section-title row text-center">
+            <div class="col-md-8 offset-md-2">
+                <h3>About</h3>
+                <p class="lead">Babu Banarasi Das University (also known as BBD University) is a private university with its main campus in Lucknow, Uttar Pradesh, India, established by Akhilesh Das in 2010 and named after his father Babu Banarasi Das, the former Chief Minister of Uttar Pradesh. On 17 February 2011 the state legislature of Uttar Pradesh empowered it to award degrees</p>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+                <div class="-box">
+                    <h2>Welcome to BBD-University </h2>
+                    <p>The main campus of the university is located in Ayodhya road, a busy highway road. The campus has Ganesha temple at the entrance, large academic buildings and library, hostels for boys and girls, and a cricket ground</p>
+                    <a href="#" class="hover-btn-new orange"><span>Learn More</span></a>
+                </div>
+            </div>
+
+            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+                <div class="post-media wow fadeIn">
+                    <img src="https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/83/2020/7/13/Annotation%202020-05-12%20200121.jpg" alt="" class="img-fluid img-rounded">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<section>
+    <p>Provisioning and Configuration Module:</p>
+    <p>It is the lowest level of cloud and typically resides on bare hardware (as a firmware) or on the top of the hypervisor layer. Its function is to abstract the underlying hardware and provide a standard mechanism to spawn instance of virtual machine on demand. It also handles the post-configuration of the operating systems and applications residing on the VM</p>
+</section>
+<section>
+    <p>Monitoring and Optimization:</p>
+    <p>  This layer handles the monitoring of all services, storage, networking and applications components in cloud. Based on the statistics, it could perform routine functions that optimize the behavior of the infrastructure components and provide relevant data to the cloud administrator to further optimize the configuration for maximum utilization and performance,</p>
+</section>
+<section>
+    <p> Metering and Chargeback:</p>
+    <p> This layer provides functions to measure the usage of resources in cloud. The metering module collects all the utilization data per domain per use. This module gives the cloud administrator enough data to measure ongoing utilization of resources and to create invoices based on the usage on a periodic basis.</p>
+</section>
+<section>
+    <p> Orchestration:</p>
+    <p> Orchestration is a central to cloud operations. Orchestration converts requests from the service management layer and the monitoring, chargeback modules to appropriate action item which are then submitted to provisioning and configuration module for final closure. Orchestration updates the CMDB in the process.</p>
+</section>
+<section>
+    <p>Configuration Management Database (CMDB):</p>
+    <p>  It is a central configuration repository wherein all the meta data and configuration of different modules, resources are kept and updated in the real-time basis. The repository can then be accessed using standards protocols like SOAP by third-party software and integration components. All updates in CMDB happen in real time as requests get processed in cloud.</p>
+</section>
+<section>
+    <p>  Cloud Life cycle Management Layer (CLM):</p>
+    <p> This layer handles the coordination of all other layers in cloud. All requests internal and external are addressed to the CLM layer first. CLM may internally route requests and actions to other layers for further processing.</p>
+</section>
+<section>
+    <p>  Service Catalog:</p>
+    <p> It is central to the definition of cloud, SC defines what kind of services the cloud is capable of providing and at what cost to the end user. SC is the first thing that is drafted before a cloud is architecture. The service management layer consults SC before it processes any request for a new resource.</p>
+</section>
+<div class="main-section" style="margin-top: 200PX;">
+    <h2 class="heading" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bolder; font-size: xx-large; text-align: center; background-color: cornflowerblue;">Placement</h2>
+    <marquee class="placement" direction="left" scrollamount="10">
+        <img src="https://cdn.pixabay.com/photo/2021/08/10/16/02/amazon-6536326_1280.png" width="200PX" height="50PX">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Deloitte_Logo.png/800px-Deloitte_Logo.png" width="200PX" height="50PX">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyF5hXBqwGEg0qUrsXboYN_dNLqGiSDSVy0Q&s" width="200PX" height="50PX">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk0wsJEIlLVGvmAG2wnejIPMhV6K6ZErIdYw&s" width="200PX" height="50PX">
+        <img src="https://1000logos.net/wp-content/uploads/2021/04/Accenture-logo.png" width="200PX" height="50PX">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKE0GgxQbFi1chj5IfW9bPKDh6FMF7sbXfLA&s" width="200PX" height="50PX">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1llZQc-W4oml6Zj8bG-DzrqCbAL1lS0Sdwg&s" width="200PX" height="50PX">
+        <img src="https://www.financialexpress.com/wp-content/uploads/2022/09/hcl1.jpg" width="200PX" height="50PX">
+        <img src="https://www.underconsideration.com/brandnew/archives/wipro_logo_before_after.jpg" width="200PX" height="50PX">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqhYkcOB4nFRO2oS1H-iVBKOsVzfzC9QROQ&s" width="200PX" height="50PX">
+        <img src="https://blogs.microsoft.com/wp-content/uploads/prod/2012/08/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen.jpg" width="200PX" height="50PX">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Ola_Cabs_logo.svg/1200px-Ola_Cabs_logo.svg.png" width="200PX" height="50PX">
+    </marquee>
+</div>
+<h1 STYLE="text-align: center;background-color: #033c05;font-size: xxx-large;margin-top: 100px">TOP UPDATES</h1>
+
+    <div class="width-100 margin-top-50" >
+        <div class="container" style="display: inline-flex">
+            <div class="width-33" >
+                <div class="latest-news" style="width:450px">
+                    <div class="heading-sect">
+                        <h3 class="head-title">Latest New</h3>
+                    </div>
+                    <marquee direction="up">
+                        <ul class="latest-news-ul">
+                            <li> 31 mar 2024 Ph D merit list Part 01_16 feb 2022 <img src="https://th.bing.com/th/id/OIP.ZjbOg3Jkm3Y7IzN4Ko87AgHaE8?rs=1&pid=ImgDetMain" width="100px" height="50px"></li>
+                            <li> 31 mar 2024 Ph D merit list Part 02_16 feb 2022 <img src="https://th.bing.com/th/id/OIP.ZjbOg3Jkm3Y7IzN4Ko87AgHaE8?rs=1&pid=ImgDetMain" width="100px" height="50px"> </li>
+                            <li> 24 May 2024 Incubation Center <img src="https://th.bing.com/th/id/OIP.ZjbOg3Jkm3Y7IzN4Ko87AgHaE8?rs=1&pid=ImgDetMain" width="100px" height="50px"></li>
+                            <li> 31 mar 2024 Instituitional Distinctiveness <img src="https://th.bing.com/th/id/OIP.ZjbOg3Jkm3Y7IzN4Ko87AgHaE8?rs=1&pid=ImgDetMain" width="100px" height="50px"></li>
+                            <li> 31 mar 2024 Academic Calender Session 2019-20 <img src="https://th.bing.com/th/id/OIP.ZjbOg3Jkm3Y7IzN4Ko87AgHaE8?rs=1&pid=ImgDetMain" width="100px" height="50px"></li>
+                            <li> 16 feb 2024 Ph D merit list Part 01_16 feb 2022 <img src="https://th.bing.com/th/id/OIP.ZjbOg3Jkm3Y7IzN4Ko87AgHaE8?rs=1&pid=ImgDetMain" width="100px" height="50px"</li>
+                            <li> 16 feb 2024 Ph D merit list Part 02_16 feb 2022 <img src="https://th.bing.com/th/id/OIP.ZjbOg3Jkm3Y7IzN4Ko87AgHaE8?rs=1&pid=ImgDetMain" width="100px" height="50px"></li>
+                            <li> 17 Oct 2024 Consolidate academic Calender <img src="https://th.bing.com/th/id/OIP.ZjbOg3Jkm3Y7IzN4Ko87AgHaE8?rs=1&pid=ImgDetMain" width="100px" height="50px"></li>
+                        </ul>
+                    </marquee>
+                </div>
+            </div>
+
+            <div class="width-33" >
+                <div class="event-list" style="width: 450px">
+                    <div class="heading-sect">
+                        <h3 class="head-title">Upcoming Events</h3>
+                    </div>
+                    <ul class="upcoming-event-list">
+                        <li><span class="event-date">29 <br>
+            April</span><span> Seminar is conducted on BCA courses.</span> </li>
+                        <li><span class="event-date">30 <br>
+            April</span><span> Seminar is conducted on B.com courses.</span> </li>
+                        <li><span class="event-date">2 <br>
+            Mar</span><span> Conducted its 2nd convocation ceremony.</span> </li>
+                        <li><span class="event-date">5 <br>
+            Mar</span><span> Annual Meeting for Batch of B.tech ( 2020 to 2024 ) and seminar will be conducted for future growth and oppurtunity.</span> </li>
+
+                    <li><span class="event-date">16 <br>
+            Mar</span><span> Annual Meeting for Batch of B.tech ( 2021 to 2025 ) and seminar will be conducted for future growth and oppurtunity.</span> </li>
+
+                    <li><span class="event-date">27 <br>
+            Mar</span><span> Annual Meeting for Batch of BBA ( 2022 to 2024 ) and seminar will be conducted for future growth and oppurtunity.</span> </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="width-33" >
+                <div class="notice-board" style="width:400px">
+                    <div class="heading-sect">
+                        <h3 class="head-title">Notice Board</h3>
+                    </div>
+                    <ul class="notice-board-list">
+                        <li><img src="https://th.bing.com/th/id/OIP.qxX77pygVc5vLzoxZDSG0AHaD3?rs=1&pid=ImgDetMain" width="100px" height="50px">	Participation in Climate Correction Day (CCD) Challenge for Mission LiFE </li>
+                        <li><img src="https://th.bing.com/th/id/OIP.qxX77pygVc5vLzoxZDSG0AHaD3?rs=1&pid=ImgDetMain" width="100px" height="50px"> 	West Zone Inter University Table Teniss (man) Tournament 2022-23 </li>
+                        <li><img src="https://th.bing.com/th/id/OIP.qxX77pygVc5vLzoxZDSG0AHaD3?rs=1&pid=ImgDetMain" width="100px" height="50px"> 	PhD Registration Form for Selected Candidates </li>
+                        <li><img src="https://th.bing.com/th/id/OIP.qxX77pygVc5vLzoxZDSG0AHaD3?rs=1&pid=ImgDetMain" width="100px" height="50px"> 	List of Activities organised under TEQIP-III </li>
+                        <li><img src="https://th.bing.com/th/id/OIP.qxX77pygVc5vLzoxZDSG0AHaD3?rs=1&pid=ImgDetMain" width="100px" height="50px"> 	Documents for empanellment of vendor for A Class contyractor </li>
+                        <li><img src="https://th.bing.com/th/id/OIP.qxX77pygVc5vLzoxZDSG0AHaD3?rs=1&pid=ImgDetMain" width="100px" height="50px"> 	School of Architecture College Level counselling 2022-23  </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="width-100">
+    <div class="container" STYLE="display: inline-flex">
+        <div class="width-33" style="width: 600px; margin-left: 50px;text-decoration: none">
+            <div class="our-principal" style="width: 400px; text-decoration: none">
+                <div class="heading-sect">
+                    <h3 class="head-title"> Useful Information</h3>
+                </div>
+                <ul class="useful-info-ul" style="text-decoration: none">
+                    <li><img src="https://www.lino.gr/wp-content/uploads/2019/03/service-png-2.png" width="150px"> <a href="#">Online Service</a></li>
+
+                    <li><img src="https://th.bing.com/th/id/OIP.NeRiNY_d1i3oda5AwOudaQHaG2?rs=1&pid=ImgDetMain" width="150px"> <a href="#">Online Results</a></li>
+
+                    <li><img src="https://th.bing.com/th/id/OIP.3O-4xl_guLLgYThscbKQuQAAAA?rs=1&pid=ImgDetMain" width="150px"> <a href="#">Exam Time Table</a></li>
+
+                    <li><img src="https://www.goodfreephotos.com/albums/other-photos/hands-holding-small-globe-of-earth.jpg" width="150px"> <a href="#">Tenders</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="width-33" style="width: 600px; margin-left:50px">
+            <div class="about-us" style="width: 400px">
+                <div class="heading-sect">
+                    <h3 class="head-title">BBD EDUCATIONAL GROUPS FOUNDERS </h3>
+                </div>
+                <div class="width-100 gove-sec-style">
+                    <div class="width-40">
+                        <img class="governor-img" src="https://bbdu.ac.in/wp-content/uploads/2017/12/dr_akhilesh_das_gupta.jpg" width="100px">
+                    </div>
+                    <div class="width-60">
+                        <p class="governor-name">  Dr. Akhilesh Das Gupta
+                            (1961-2017)MBA, LLB, Ph.D.
+
+                            Hon’ble Founder Ex-Chairman, BBD Educational Society</p>
+                        <p class="governor-designation">    Ex-Member of Parliament (Rajya Sabha)</p>
+                    </div>
+                </div>
+                <div class="width-40">
+                    <img class="governor-img" src="https://bbdu.ac.in/wp-content/uploads/2018/02/babuji-120x120.jpg" WIDTH="100PX">
+                </div>
+                <div class="width-60">
+                    <p class="governor-name"> Late Babu Banarasi Das Ji
+                        (1912 – 1985)
+                        Genesis
+                        </p>
+                    <p class="governor-designation"> Ex Chief Minister
+                        Govt. of Uttar Pradesh</p>
+                </div>
+            </div>
+        </div>
+        <div class="width-33" style="width:450px; margin-left: 50px">
+            <div class="certificate" STYLE="width: 400px">
+                <div class="heading-sect">
+                    <h3 class="head-title"> My College faculty</h3>
+                </div>
+                <img src="https://bbdu.ac.in/wp-content/uploads/2024/09/img_3096-2-1-min.jpg"  class="width-100" width="400px" height="400px">
+            </div>
+        </div>
+    </div>
+</div>
+
+<section style="margin-top: 200px">
+    <H1 STYLE="text-align: center">LIFE AT BBD</H1>
+    </main>
+    <img   style=" width: 500px; height:500px ;"   src="https://bbdu.ac.in/wp-content/uploads/bfi_thumb/cctv-ppa7c18dq21b009xzdiwe77i65v4ymcs8nklqtz3yc.png ">
+    <img   style=" width: 500px; height:500px ;"   src="https://bbdu.ac.in/wp-content/uploads/bfi_thumb/transport-ppa7bdqez754xr82sld85v4zbj2ym6rhtf9gqwxy9w.jpg">
+    <img   style=" width: 500px; height:500px ;"   src="https://bbdu.ac.in/wp-content/uploads/bfi_thumb/health-min-ppa9fyn1s9z4u1zim71zt1fxmnmiqfs80golbhe9c4.jpg">
+    <img   style=" width: 500px; height:500px ;"   src="https://bbdu.ac.in/wp-content/uploads/bfi_thumb/event-ppa7bjdg47cuvezvvnszktpqvub5wddvu76dmkpl8k.jpg">
+    <img   style=" width: 500px; height:500px ;" src=" https://bbdu.ac.in/wp-content/uploads/bfi_thumb/techfest-ppa7b83du6xf03g9pixgqwk7r7urc053sncjv96bb8.jpg ">
+    <img  style=" width: 500px; height:500px ;" src=" https://bbdu.ac.in/wp-content/uploads/bfi_thumb/bbd-fm-ppa7bunie7saqqji1soieqva0grkgqmnvr07dw8v5w.jpg">
+
+
+    </main>
+</section>
+<section>
+    <fieldset style="margin-top:0px;">
+        <caption>
+            <img src="https://png.pngtree.com/png-clipart/20211205/original/pngtree-lord-shiva-tattoo-art-with-har-mahadev-hindi-calligraphy-and-dry-png-image_6959115.png" style="margin-top:60px; border-radius: 50%; width: 300px; height: 300px; margin-left: 100px;">
+            <h1  style="font-size: 90%; margin-top: 30px; text-align:center ;">PROFILE</h1>
+            <P style=" text-align:center">CHANCELLOR:</P>
+            <P style="text-align: center"> VISHESH KUMAR PRAJAPATI</P>
+            <p style=" text-align: center;">CERTIFICATES:</p>
+            <p style=" text-align: center;">BACHELOR OF TECHNONOLOGY- SOFTWARE ENGINEERING</p>
+        </caption>
+
+        <figcaption>
+    <div class=" LOGO" style="margin-left: 600px; display: grid; grid-template-columns: repeat(2,0fr);" >
+        <div style="background-color:red ;  height: 200px; width:200px  " class="red"></div>
+        <div style="background-color: green ; height: 200px; width: 200px;"class="yellow"></div>
+        <div style="background-color : blue ; height: 200px; width: 200px; "class="green"></div>
+        <div style="background-color:yellow ; height: 200px;  width: 200px;"class="blue"></div>
+    </div>
+    <h1 style="text-align: center;font-weight: bolder;font-size: xxx-large">MIOCROSOFT</h1>
+</figcaption>
+<h2 id="demo36"  style="text-align: center;background-color: #812bd1;font-weight: bolder;font-size: xx-large;margin-top: 100px"> EDUCATIONAL INSTITUTE REVIEW </h2>
+<iframe  width="1500 px" height="300PX" src="https://bbdu.ac.in/"></iframe>
+<iframe  width="1500 px" height="300PX" src="https://bbdnitm.ac.in/"></iframe>
+<iframe  width="1500 px" height="300PX" src="https://bbdec.ac.in/"></iframe>
+</section>
+<fieldset>
+    <h1 style="text-align: center;background-color: #6e912d;font-weight: bolder;font-size: xx-large; margin-top: 100px">See Our Location</h1>
+<iframe   src=
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d47169.795533326396!2d77.38522794611738!3d28.51217402233223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce626851f7009%3A0x621185133cfd1ad1!2sGeeksforGeeks%20%7C%20Coding%20Classes!5e0!3m2!1sen!2sin!4v1712429105950!5m2!1sen!2sin"
+         width="100%" height="450"
+         style="border:0;"
+         loading="lazy"
+         referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+<div class="media-domains" style="background-color: #1e1d1d; height: 500PX; margin-top: 100PX;" >
+    <li class="link_name"  style="background-color: #000; color: darkgray; text-align: center;padding: 34PX;">MEDIA-DOMAIN</li>
+
+    <a href="#"><i class="fab fa-facebook-f"></i>Facebook</a>
+    <img      style="width: 100px; height:100px ; margin-left: 70PX;"    src="https://th.bing.com/th/id/OIP.lkR1eCnLcPZ32cYreDUNkgHaHa?rs=1&pid=ImgDetMain">
+    <a href="#"><i class="fab fa-twitter"></i>Twitter</a>
+    <img      style="width: 100px; height:100px ; margin-left: 70PX;"    src="https://th.bing.com/th/id/OIP.H836RvDYYgQZcZn0TC8qBAHaHa?rs=1&pid=ImgDetMain">
+    <a href="#"><i class="fab fa-instagram"></i>instagram</a>
+    <img      style="width: 100px; height:100px ; margin-left: 70PX;"    src="https://th.bing.com/th/id/OIP.VHloij6S_ID2JwV7XXZp4wHaHa?rs=1&pid=ImgDetMain">
+    <a href="#"><i class="fab fa-linkedin-in"></i> linkedin</a>
+    <img      style="width: 100px; height:100px ; margin-left:70PX ;"    src="https://th.bing.com/th/id/OIP.6BV8VscJQllDYWvlMPDaCwHaHa?rs=1&pid=ImgDetMain">
+    <a href="#"><i class="fab fa-youtube"></i>youtube</a>
+    <img      style="width: 100px; height:100px ; margin-left: 70PX;"    src="https://www.freeiconspng.com/uploads/logo-youtube-png-clipart-11.png">
+    <a href="#"><i class="fab fa-github"></i>github</a>
+    <img      style="width: 100px; height:100px ; margin-left:70PX ; margin-top: 10PX;"    src="https://th.bing.com/th/id/OIP.fqZ9-PPqcG_cm0k3JfoINQHaEK?rs=1&pid=ImgDetMain">
+</div>
+    <div class="main-section" style="margin-top:200px; margin-left:100px;text-decoration:none ">
+        <div class="container" style="display: inline-flex">
+
+            <div class="event" style="width:750px ;" >
+                <h2 class="heading" style="text-align: center">Campus News</h2>
+                <div>
+                    <marquee direction="up" scrollamount="7" style="height:340px; text-decoration: none">
+                        <ul>
+                            <li>
+                                <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="https://research.mgu.ac.in/wp-content/uploads/2021/07/new-icon-gif-9.gif" width="50PX" height="50PX">
+                            </li>
+                            <li>
+                                <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="https://research.mgu.ac.in/wp-content/uploads/2021/07/new-icon-gif-9.gif" width="50PX" height="50PX">
+                            </li>
+                            <li>
+                                <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="https://research.mgu.ac.in/wp-content/uploads/2021/07/new-icon-gif-9.gif" width="50PX" height="50PX">
+                            </li>
+                            <li>
+                                <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="https://research.mgu.ac.in/wp-content/uploads/2021/07/new-icon-gif-9.gif" width="50PX" height="50PX">
+                            </li>
+                            <li>
+                                <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="https://research.mgu.ac.in/wp-content/uploads/2021/07/new-icon-gif-9.gif" width="50PX" height="50PX">
+                            </li>
+                            <li>
+                                <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="https://research.mgu.ac.in/wp-content/uploads/2021/07/new-icon-gif-9.gif" width="50PX" height="50PX">
+                            </li>
+                            <li>
+                                <i>01-April-2023 :</i> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <img src="https://research.mgu.ac.in/wp-content/uploads/2021/07/new-icon-gif-9.gif" width="50PX" height="50PX">
+                            </li>
+                        </ul>
+
+                    </marquee>
+                </div>
+            </div>
+
+            <div class="event" style="width:750px; margin-left:100px; ;text-decoration: none">
+                <h2 class="heading" style="text-align: center">Events</h2>
+                <div>
+                    <marquee direction="up" scrollamount="7" style="height:340px;text-decoration: none">
+                        <ul>
+                            <li>
+                                <span class="event-date">29 <br> April </span> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            </li>
+                            <li>
+                                <span class="event-date">29 <br> April </span> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            </li>
+                            <li>
+                                <span class="event-date">29 <br> April </span> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            </li>
+                            <li>
+                                <span class="event-date">29 <br> April </span> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            </li>
+                            <li>
+                                <span class="event-date">29 <br> April </span> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            </li>
+                            <li>
+                                <span class="event-date">29 <br> April </span> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            </li>
+                        </ul>
+                    </marquee>
+                </div>
+            </div>
+
+            <div class="event" style="width: 750px;margin-left: 100px;text-decoration: none">
+                <h2 class="heading" style="text-align: center">Notice Boards</h2>
+                <div>
+                    <marquee direction="up" scrollamount="7" style="height:340px; text-decoration: none">
+                        <ul>
+                            <li>
+                                <img src=" data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAY1BMVEX/////xzj/sSL/xjH//ff/0F//qwD/+OD/1nX/rhP/rQD/0YP/4Lf/0YL/sB//rxr/3JL/xCX/+Oj/0W//5r//4az/znb/5LP/8df/uz7/yGf/26D//vr/7tH/ym7/4Kf/7MlbcjIiAAABcElEQVR4nO3da07CUBSFUbzgoyBF8Ynv+Y9Sh8C5JOw2rjWC/aU5SX806WIBAAAAAAAAAAAATMjj7dEe01u7PK0LntNre2yGdrz1S3puh22lcBxf03vrSs+w7Q6r9OCyWmEb3tKDy4qFbXhPL66qFrb13E6xXLg7fKQ315QL2/CV3lxTL2zr7/Toko7CsX2mV1d0FM7sFHsK53WKXYXtakan2Fc4jvM5xb7Cv1Pcp5cfq7Pw7wV1f30WscK2uzqTn1ThuQwbhQoVpilUqDBPoUKFeQoVKsxTqFBhnkKF/6Cw9D1NwrA9sfBmeTFtyxuFChWmKVSoME+hQoV5ChUqzFOoUGGeQoUK8xQqVJinUKHCPIUKFeYpVKgwT6FChXkKFSrMU6hQYZ5ChQrzFCpUmKdQocI8hQoV5ilUqDBPoUKFeQoVKsxTqFBhnkKFi7v75bTd351YuH+4nLaH039os5q2k/sAAAAAAAAAAAAAKn4BVRp8mwhFWkYAAAAASUVORK5CYII=" width="50PX " height="50PX"> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            </li>
+                            <li>
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAY1BMVEX/////xzj/sSL/xjH//ff/0F//qwD/+OD/1nX/rhP/rQD/0YP/4Lf/0YL/sB//rxr/3JL/xCX/+Oj/0W//5r//4az/znb/5LP/8df/uz7/yGf/26D//vr/7tH/ym7/4Kf/7MlbcjIiAAABcElEQVR4nO3da07CUBSFUbzgoyBF8Ynv+Y9Sh8C5JOw2rjWC/aU5SX806WIBAAAAAAAAAAAATMjj7dEe01u7PK0LntNre2yGdrz1S3puh22lcBxf03vrSs+w7Q6r9OCyWmEb3tKDy4qFbXhPL66qFrb13E6xXLg7fKQ315QL2/CV3lxTL2zr7/Toko7CsX2mV1d0FM7sFHsK53WKXYXtakan2Fc4jvM5xb7Cv1Pcp5cfq7Pw7wV1f30WscK2uzqTn1ThuQwbhQoVpilUqDBPoUKFeQoVKsxTqFBhnkKF/6Cw9D1NwrA9sfBmeTFtyxuFChWmKVSoME+hQoV5ChUqzFOoUGGeQoUK8xQqVJinUKHCPIUKFeYpVKgwT6FChXkKFSrMU6hQYZ5ChQrzFCpUmKdQocI8hQoV5ilUqDBPoUKFeQoVKsxTqFBhnkKFi7v75bTd351YuH+4nLaH039os5q2k/sAAAAAAAAAAAAAKn4BVRp8mwhFWkYAAAAASUVORK5CYII=" width="50PX" height="50PX"> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            </li>
+                            <li>
+                                <img src=" data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAY1BMVEX/////xzj/sSL/xjH//ff/0F//qwD/+OD/1nX/rhP/rQD/0YP/4Lf/0YL/sB//rxr/3JL/xCX/+Oj/0W//5r//4az/znb/5LP/8df/uz7/yGf/26D//vr/7tH/ym7/4Kf/7MlbcjIiAAABcElEQVR4nO3da07CUBSFUbzgoyBF8Ynv+Y9Sh8C5JOw2rjWC/aU5SX806WIBAAAAAAAAAAAATMjj7dEe01u7PK0LntNre2yGdrz1S3puh22lcBxf03vrSs+w7Q6r9OCyWmEb3tKDy4qFbXhPL66qFrb13E6xXLg7fKQ315QL2/CV3lxTL2zr7/Toko7CsX2mV1d0FM7sFHsK53WKXYXtakan2Fc4jvM5xb7Cv1Pcp5cfq7Pw7wV1f30WscK2uzqTn1ThuQwbhQoVpilUqDBPoUKFeQoVKsxTqFBhnkKF/6Cw9D1NwrA9sfBmeTFtyxuFChWmKVSoME+hQoV5ChUqzFOoUGGeQoUK8xQqVJinUKHCPIUKFeYpVKgwT6FChXkKFSrMU6hQYZ5ChQrzFCpUmKdQocI8hQoV5ilUqDBPoUKFeQoVKsxTqFBhnkKFi7v75bTd351YuH+4nLaH039os5q2k/sAAAAAAAAAAAAAKn4BVRp8mwhFWkYAAAAASUVORK5CYII=" width="50PX " height="50PX"> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            </li>
+                            <li>
+                                <img src=" data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAY1BMVEX/////xzj/sSL/xjH//ff/0F//qwD/+OD/1nX/rhP/rQD/0YP/4Lf/0YL/sB//rxr/3JL/xCX/+Oj/0W//5r//4az/znb/5LP/8df/uz7/yGf/26D//vr/7tH/ym7/4Kf/7MlbcjIiAAABcElEQVR4nO3da07CUBSFUbzgoyBF8Ynv+Y9Sh8C5JOw2rjWC/aU5SX806WIBAAAAAAAAAAAATMjj7dEe01u7PK0LntNre2yGdrz1S3puh22lcBxf03vrSs+w7Q6r9OCyWmEb3tKDy4qFbXhPL66qFrb13E6xXLg7fKQ315QL2/CV3lxTL2zr7/Toko7CsX2mV1d0FM7sFHsK53WKXYXtakan2Fc4jvM5xb7Cv1Pcp5cfq7Pw7wV1f30WscK2uzqTn1ThuQwbhQoVpilUqDBPoUKFeQoVKsxTqFBhnkKF/6Cw9D1NwrA9sfBmeTFtyxuFChWmKVSoME+hQoV5ChUqzFOoUGGeQoUK8xQqVJinUKHCPIUKFeYpVKgwT6FChXkKFSrMU6hQYZ5ChQrzFCpUmKdQocI8hQoV5ilUqDBPoUKFeQoVKsxTqFBhnkKFi7v75bTd351YuH+4nLaH039os5q2k/sAAAAAAAAAAAAAKn4BVRp8mwhFWkYAAAAASUVORK5CYII=" width="50PX " height="50PX"> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            </li>
+                            <li>
+                                <img src="  data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAY1BMVEX/////xzj/sSL/xjH//ff/0F//qwD/+OD/1nX/rhP/rQD/0YP/4Lf/0YL/sB//rxr/3JL/xCX/+Oj/0W//5r//4az/znb/5LP/8df/uz7/yGf/26D//vr/7tH/ym7/4Kf/7MlbcjIiAAABcElEQVR4nO3da07CUBSFUbzgoyBF8Ynv+Y9Sh8C5JOw2rjWC/aU5SX806WIBAAAAAAAAAAAATMjj7dEe01u7PK0LntNre2yGdrz1S3puh22lcBxf03vrSs+w7Q6r9OCyWmEb3tKDy4qFbXhPL66qFrb13E6xXLg7fKQ315QL2/CV3lxTL2zr7/Toko7CsX2mV1d0FM7sFHsK53WKXYXtakan2Fc4jvM5xb7Cv1Pcp5cfq7Pw7wV1f30WscK2uzqTn1ThuQwbhQoVpilUqDBPoUKFeQoVKsxTqFBhnkKF/6Cw9D1NwrA9sfBmeTFtyxuFChWmKVSoME+hQoV5ChUqzFOoUGGeQoUK8xQqVJinUKHCPIUKFeYpVKgwT6FChXkKFSrMU6hQYZ5ChQrzFCpUmKdQocI8hQoV5ilUqDBPoUKFeQoVKsxTqFBhnkKFi7v75bTd351YuH+4nLaH039os5q2k/sAAAAAAAAAAAAAKn4BVRp8mwhFWkYAAAAASUVORK5CYII=" width="50PX " height="50PX"> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            </li>
+                            <li>
+                                <img src=" data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAY1BMVEX/////xzj/sSL/xjH//ff/0F//qwD/+OD/1nX/rhP/rQD/0YP/4Lf/0YL/sB//rxr/3JL/xCX/+Oj/0W//5r//4az/znb/5LP/8df/uz7/yGf/26D//vr/7tH/ym7/4Kf/7MlbcjIiAAABcElEQVR4nO3da07CUBSFUbzgoyBF8Ynv+Y9Sh8C5JOw2rjWC/aU5SX806WIBAAAAAAAAAAAATMjj7dEe01u7PK0LntNre2yGdrz1S3puh22lcBxf03vrSs+w7Q6r9OCyWmEb3tKDy4qFbXhPL66qFrb13E6xXLg7fKQ315QL2/CV3lxTL2zr7/Toko7CsX2mV1d0FM7sFHsK53WKXYXtakan2Fc4jvM5xb7Cv1Pcp5cfq7Pw7wV1f30WscK2uzqTn1ThuQwbhQoVpilUqDBPoUKFeQoVKsxTqFBhnkKF/6Cw9D1NwrA9sfBmeTFtyxuFChWmKVSoME+hQoV5ChUqzFOoUGGeQoUK8xQqVJinUKHCPIUKFeYpVKgwT6FChXkKFSrMU6hQYZ5ChQrzFCpUmKdQocI8hQoV5ilUqDBPoUKFeQoVKsxTqFBhnkKFi7v75bTd351YuH+4nLaH039os5q2k/sAAAAAAAAAAAAAKn4BVRp8mwhFWkYAAAAASUVORK5CYII=" width="50PX " height="50PX"> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            </li>
+                        </ul>
+                    </marquee>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br><br>
+    <br> <br>
+    <div class="main-section award" style="margin-left: 100px;text-decoration: none">
+        <div class="container" style="display: inline-flex">
+
+            <div class="event" style="width: 750px">
+                <h2 class="heading">School of Engineering Info</h2>
+                <div>
+                    <h3>My  SCHOOL of Engineering</h3>
+                    <p>
+                        <b>WEB-DEVELOPER : </b>  vishesh-kumar-prajapati
+                    </p>
+                    <p>
+                        <b>Address : </b> lucknow Uttarpradesh
+                    </p>
+                    <p>
+                        <b>City : </b> Lucknow, India.
+                    </p>
+                    <p>
+                        <b>Contact No. : </b> +91234 456 7890
+                    </p>
+                    <p>
+                        <b>Email Id : </b>Contact@adminvisheshk.p
+                    </p>
+                </div>
+            </div>
+
+            <div class="event" style="width: 750px ;margin-left: 100px" >
+                <h2 class="heading">Our College Awards</h2>
+                <div>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSLMN5KKFOxNctZKkSnna-PAfwohIeJmNpNw&s">
+                </div>
+            </div>
+
+            <div class="event" style="width: 750px ;margin-left: 100px">
+                <h2 class="heading">My College Certificate</h2>
+                <div>
+                    <img src="https://bbdu.ac.in/wp-content/uploads/2024/08/breastfeeding-certificate-rotated.jpeg" width="400px">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div style=" width: 600px;height: 600px;margin-left:500px ; margin-top:200px">
+        <h3 style="text-align: center">Contact Form</h3>
+
+        <div class="container2"  style="background-color: #2b3035">
+            <form action="/action_page.php">
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+                <label for="lname">Last Name</label>
+                <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+                <label for="country">Country</label>
+                <select id="country" name="country">
+                    <option value="australia">AUSTRALIA</option>
+                    <option value="canada">CANADA</option>
+                    <option value="usa">USA</option>
+                    <option value="INDIA">INDIA</option>
+                    <option value="CHINA">CHINA</option>
+                    <option value="RUSSIA">RUSSIA</option>
+                    <option value="SOUTHAFRICA">SOUTH AFRICA</option>
+                    <option value="SRILANKA">SRI LANKA</option>
+                    <option value="BANGLADESH">BANGLADESH</option>
+                </select>
+
+                <label for="subject">Subject</label>
+                <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+    </div>
+
+
+
+
+
+<footer style="margin-top:200px ; background-color: #03173c;" >
+    <ul>
+        <li>Company</li>
+        <li>About Us</li>
+        <li>Careers</li>
+        <li>In Media</li>
+        <li>Contact Us</li>
+        <li>Terms and Conditions</li>
+        <li>Privacy Policy</li>
+        <li>Copyright Policy</li>
+        <li>Third-Party Copyright Notices</li>
+        <li>Advertise with us</li>
+    </ul>
+    <ul>
+        <li>Explore</li>
+        <li>Job Fair For Students</li>
+        <li>POTD: Revamped</li>
+        <li>Python Backend LIVE</li>
+        <li>Android App Development</li>
+        <li>DevOps LIVE</li>
+        <li>DSA in JavaScript</li>
+    </ul>
+    <ul>
+        <li>Languages</li>
+        <li>Python</li>
+        <li>Java</li>
+        <li>C++</li>
+        <li>PHP</li>
+        <li>GoLang</li>
+        <li>SQL</li>
+        <li>R Language</li>
+        <li>Android Tutorial</li>
+    </ul>
+    <ul>
+        <li>Data Structures</li>
+        <li>Array</li>
+        <li>String</li>
+        <li>Linked List</li>
+        <li>Stack</li>
+        <li>Queue</li>
+        <li>Tree</li>
+        <li>Graph</li>
+    </ul>
+    <ul>
+        <li>Algorithms</li>
+        <li>Sorting</li>
+        <li>Searching</li>
+        <li>Greedy</li>
+        <li>Dynamic Programming</li>
+        <li>Pattern Searching</li>
+        <li>Recursion</li>
+        <li>Backtracking</li>
+    </ul>
+    <ul>
+        <li>Web Development</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Bootstrap</li>
+        <li>ReactJS</li>
+        <li>AngularJS</li>
+        <li>NodeJS</li>
+    </ul>
+    <ul>
+        <li>Computer Science</li>
+        <li>GATE CS Notes</li>
+        <li>Operating Systems</li>
+        <li>Computer Network</li>
+        <li>Database Management System</li>
+        <li>Software Engineering</li>
+        <li>Digital Logic Design</li>
+        <li>Engineering Maths</li>
+    </ul>
+    <ul>
+        <li>Python</li>
+        <li>Python Programming Examples</li>
+        <li>Django Tutorial</li>
+        <li>Python Projects</li>
+        <li>Python Tkinter</li>
+        <li>OpenCV Python Tutorial</li>
+        <li>Python Interview Question</li>
+    </ul>
+    <ul>
+        <li>Data Science & ML</li>
+        <li>Data Science With Python</li>
+        <li>Data Science For Beginner</li>
+        <li>Machine Learning Tutorial</li>
+        <li>Maths For Machine Learning</li>
+        <li>Pandas Tutorial</li>
+        <li>NumPy Tutorial</li>
+        <li>NLP Tutorial</li>
+        <li>Deep Learning Tutorial</li>
+    </ul>
+    <ul>
+        <li>DevOps</li>
+        <li>Git</li>
+        <li>AWS</li>
+        <li>Docker</li>
+        <li>Kubernetes</li>
+        <li>Azure</li>
+        <li>GCP</li>
+    </ul>
+    <ul>
+        <li>Competitive Programming</li>
+        <li>Top DSA for CP</li>
+        <li>Top 50 Tree Problems</li>
+        <li>Top 50 Graph Problems</li>
+        <li>Top 50 Array Problems</li>
+        <li>Top 50 String Problems</li>
+        <li>Top 50 DP Problems</li>
+        <li>Top 15 Websites for CP</li>
+    </ul>
+    <ul>
+        <li>System Design</li>
+        <li>What is System Design</li>
+        <li>Monolithic and Distributed SD</li>
+        <li>Scalability in SD</li>
+        <li>Databases in SD</li>
+        <li>High Level Design or HLD</li>
+        <li>Low Level Design or LLD</li>
+        <li>Top SD Interview Questions</li>
+    </ul>
+    <ul>
+        <li>Interview Corner</li>
+        <li>Company Preparation</li>
+        <li>Preparation for SDE</li>
+        <li>Company Interview Corner</li>
+        <li>Experienced Interview</li>
+        <li>Internship Interview</li>
+        <li>Competitive Programming</li>
+        <li>Aptitude</li>
+    </ul>
+    <ul>
+        <li>GfG School</li>
+        <li>CBSE Notes for Class 8  </li>
+        <li>CBSE Notes for Class 9 </li>
+        <li>CBSE Notes for Class 10 </li>
+        <li>CBSE Notes for Class 11 </li>
+        <li>CBSE Notes for Class 12 </li>
+        <li>English Grammar</li>
+    </ul>
+    <ul>
+        <li>Commerce</li>
+        <li>Accountancy</li>
+        <li>Business Studies</li>
+        <li>Microeconomics</li>
+        <li>Macroeconomics</li>
+        <li>Statistics for Economics</li>
+        <li>Indian Economic Development</li>
+    </ul>
+    <ul>
+        <li>UPSC</li>
+        <li>Polity Notes</li>
+        <li>Geography Notes</li>
+        <li>History Notes</li>
+        <li>Science and Technology Notes</li>
+        <li>Economics Notes</li>
+        <li>Important Topics in Ethics</li>
+        <li>UPSC Previous Year Papers</li>
+    </ul>
+    <ul>
+        <li>SSC/ BANKING</li>
+        <li>SSC CGL Syllabus</li>
+        <li>SBI PO Syllabus</li>
+        <li>SBI Clerk Syllabus</li>
+        <li>IBPS PO Syllabus</li>
+        <li>IBPS Clerk Syllabus</li>
+        <li>Aptitude Questions</li>
+        <li>SSC CGL Practice Papers</li>
+    </ul>
+    <ul>
+        <li>Write & Earn</li>
+        <li>Write an Article</li>
+        <li>Improve an Article</li>
+        <li>Pick Topics to Write</li>
+        <li>Write Interview Experience</li>
+        <li>Internships</li>
+        <li>Video Internship</li>
+    </ul>
+</footer>
+</fieldset>
+<div class="demo12" style="background-color: #3f3b3b;">
+    Copyright@visheshk.p
+</div>
+
+<script src="/public/js/all.js"></script>
+
+<script src="/public/js/custom.js"></script>
+<script src="/public/js/timeline.min.js"></script>
+<script>
+    function timeline(elementNodeListOf, param2) {
+
+    }
+
+    timeline(document.querySelectorAll('.timeline'), {
+        forceVerticalMode: 700,
+        mode: 'horizontal',
+        verticalStartPosition: 'left',
+        visibleItems: 4
+    });
+
+        let slideIndex = 1;
+        showSlides(slideIndex);
+
+        function plusSlides(n) {
+        showSlides(slideIndex += n);
+    }
+
+        function currentSlide(n) {
+        showSlides(slideIndex = n);
+    }
+
+        function showSlides(n) {
+        let i;
+        let slides = document.getElementsByClassName("mySlides");
+        let dots = document.getElementsByClassName("dot");
+        if (n > slides.length) {slideIndex = 1}
+        if (n < 1) {slideIndex = slides.length}
+        for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+        for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+        slides[slideIndex-1].style.display = "block";
+        dots[slideIndex-1].className += " active";
+    }
+
+
+@import url(animate.min.css);
+@import url(animate.css);
+@import url(bootstrap-touch-slider.css);
+@import url(flaticon.css);
+@import url(timeline.min.css);
+@import url(font-awesome.min.css);
+
+body {
+    color: #06416c;
+    font-size: 14px;
+    font-family: 'Rubik', sans-serif;
+    line-height: 1.80857;
+}
+
+body.demos .section {
+    background: url(images/bg.png) repeat top center #f2f3f5;
+}
+
+body.demos .section-title img {
+    max-width: 280px;
+    display: block;
+    margin: 10px auto;
+}
+
+body.demos .service-widget h3 {
+    border-bottom: 1px solid #ededed;
+    font-size: 18px;
+    padding: 20px 0;
+    background-color: #ffffff;
+}
+
+body.demos .service-widget {
+    margin: 0 0 30px;
+    padding: 30px;
+    background-color: #fff
+}
+
+body.demos .container-fluid {
+    max-width: 1080px
+}
+
+html, body{
+    height: 100%;
+}
+
+
+a {
+    color: #1f1f1f;
+    text-decoration: none !important;
+    outline: none !important;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    letter-spacing: 0;
+    font-weight: normal;
+    position: relative;
+    padding: 0 0 10px 0;
+    line-height: 120% !important;
+    color: #1f1f1f;
+    margin: 0
+}
+
+h1 {
+    font-size: 24px
+}
+
+h2 {
+    font-size: 22px
+}
+
+.banner{
+    margin: auto;
+    width: 800px;
+    display:grid;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #b5bd9a8f;
+    padding: 25px;
+    border-radius: 20px;
+
+}
+#banner-h2{
+    font-size: 28px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #c3e155;
+    background-color: #143d06;
+    padding: 20px;
+    border-radius: 8px;
+}
+.banner-td{
+    font-size: large;
+    font-weight: 600;
+    color: #eeebf3;
+
+}
+.name{
+    display: grid;
+    background-color: orangered;
+    padding: 10px;
+    margin: 20px;
+    font-size: 20px;
+    border-radius: 6px;
+
+
+}
+h3 {
+    font-size: 18px
+}
+
+h4 {
+    font-size: 16px
+}
+
+h5 {
+    font-size: 14px
+}
+
+h6 {
+    font-size: 13px
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+    color: #212121;
+    text-decoration: none!important;
+    opacity: 1
+}
+
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover,
+h6 a:hover {
+    opacity: .8
+}
+
+a {
+    color: #1f1f1f;
+    text-decoration: none;
+    outline: none;
+}
+
+a,
+.btn {
+    text-decoration: none !important;
+    outline: none !important;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.btn-custom {
+    margin-top: 20px;
+    background-color: transparent !important;
+    border: 2px solid #ddd;
+    padding: 12px 40px;
+    font-size: 16px;
+}
+
+.lead {
+    font-size: 18px;
+    line-height: 30px;
+    color: #767676;
+    margin: 0;
+    padding: 0;
+}
+
+blockquote {
+    margin: 20px 0 20px;
+    padding: 30px;
+}
+
+
+/*------------------------------------------------------------------
+    WP CORE
+-------------------------------------------------------------------*/
+
+.first {
+    clear: both
+}
+
+.last {
+    margin-right: 0
+}
+
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float: right;
+    margin: 10px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 10px 20px 20px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 10px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 10px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 10px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%;
+    /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+
+/* Text meant only for screen readers. */
+
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+}
+
+.screen-reader-text:focus {
+    background-color: #f1f1f1;
+    border-radius: 3px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+    clip: auto !important;
+    color: #21759b;
+    display: block;
+    font-size: 14px;
+    font-size: 0.875rem;
+    font-weight: bold;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 15px 23px 14px;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000;
+    /* Above WP toolbar. */
+}
+
+/*------------------------------------------------------------------
+    LOADER
+-------------------------------------------------------------------*/
+
+.loader-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index:8888;
+}
+.loader-container:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50%;
+    background: #eea412;
+    z-index: -1;
+    transition: top 1.2s linear 3.1s;
+}
+.loader-container:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 50%;
+    background: #eea412;
+    z-index: -1;
+    transition: bottom 1.2s linear 3.1s;
+}
+.loader-container.done:before {
+    top: -50%;
+}
+.loader-container.done:after {
+    bottom: -50%;
+}
+
+.progress-br {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    transform-origin: center;
+}
+.progress-br .progress__item {
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+}
+.progress-br .progress__item:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-top: -3px;
+    margin-left: 0px;
+    width: 50px;
+    height: 50px;
+    border-top: solid 10px #fff;
+    border-right: solid 10px #fff;
+    border-top-right-radius: 100%;
+    transform-origin: left bottom;
+    /* -webkit-animation: spin 3s linear infinite; */
+}
+.progress-br.float .progress__item:before {
+    border-top-width: 50px;
+    margin-top: 0px;
+    height: 50px;
+}
+
+.progress-br.float.shadow:before {
+    border-top-width: 50px;
+    margin-top: -50px;
+    height: 50px;
+}
+.progress-br.shadow:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -50px 0 0 50px;
+    width: 50px;
+    height: 50px;
+    border-top: solid 10px #6e912d;
+    border-right: solid 10px #6e912d;
+    border-top-right-radius: 100%;
+    z-index: -1;
+    transform-origin: left bottom;
+    /* -webkit-animation: spin 3s linear infinite; */
+}
+.progress-br.shadow:after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    color: #6e912d;
+    text-align: center;
+    line-height: 100px;
+    border: 2px solid #6e912d;
+    border-radius: 50%;
+    margin: -50px 0 0 -0px;
+    z-index: -1;
+    transform-origin: center;
+}
+.progress-br.done .progress__item {
+    opacity: 0;
+    /* -webkit-animation: done 3.1s; */
+    transition: opacity 0.3s linear 3.1s;
+}
+.progress-br.done .progress__item:before {
+    display: none;
+}
+.progress-br.done:before {
+    display: none;
+}
+.progress-br.done:after {
+    opacity: 0;
+    /* -webkit-animation: done 3.1s; */
+    transition: opacity 0.15s linear 3.1s;
+}
+
+@-webkit-keyframes done {
+    10% {
+        transform: scale(1.1);
+    }
+    20% {
+        transform: scale(0.9);
+    }
+    30% {
+        transform: scale(1.07);
+    }
+    40% {
+        transform: scale(0.93);
+    }
+    50% {
+        transform: scale(1.04);
+    }
+    60% {
+        transform: scale(0.97);
+    }
+    80% {
+        transform: scale(1.01);
+    }
+    90% {
+        transform: scale(0.99);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+@-webkit-keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+.shadow{
+    box-shadow: none !important;
+}
+
+/*------------------------------------------------------------------
+    HEADER
+-------------------------------------------------------------------*/
+
+#nav-logo{
+    margin-left: 50px;
+}
+.top-navbar .bg-light{
+    background: #02063c !important;
+}
+
+.top-navbar .navbar-light .navbar-nav .nav-link{
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.top-navbar .navbar-light .navbar-nav .nav-item{
+    position: relative;
+    display: inline-block;
+    padding: 10px 0px;
+    margin: 0px 20px;
+}
+.top-navbar .navbar-light .navbar-nav .nav-item .nav-link{
+    padding: 6px 0px;
+    position: relative;
+    display: block;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+}
+
+.top-navbar .navbar-light .navbar-nav .nav-item::after {
+    position: absolute;
+    content: '';
+    left: 50%;
+    bottom: auto;
+    top: 11px;
+    width: 5px;
+    height: 5px;
+    opacity: 0;
+    margin-left: -3px;
+    background-color: #ffffff;
+    border-radius: 50px;
+    -webkit-transform: translateY(0px);
+    transform: translateY(0px);
+    transition: all 900ms ease;
+    -webkit-transition: all 900ms ease;
+    -ms-transition: all 900ms ease;
+    -o-transition: all 900ms ease;
+    -moz-transition: all 900ms ease;
+}
+
+.top-navbar .navbar-light .navbar-nav .nav-item .nav-link::before {
+    position: absolute;
+    content: '';
+    left: 0%;
+    bottom: auto;
+    top: -4px;
+    width: 5px;
+    height: 5px;
+    border-radius: 50px;
+    opacity: 0;
+    margin-left: -10px;
+    background-color: #ffffff;
+    -webkit-transform: translateY(0px);
+    transform: translateY(0px);
+    transition: all 900ms ease;
+    -webkit-transition: all 900ms ease;
+    -ms-transition: all 900ms ease;
+    -o-transition: all 900ms ease;
+    -moz-transition: all 900ms ease;
+}
+
+.top-navbar .navbar-light .navbar-nav .nav-item .nav-link::after {
+    position: absolute;
+    content: '';
+    right: 0%;
+    left: auto;
+    bottom: auto;
+    top: -4px;
+    width: 5px;
+    height: 5px;
+    border-radius: 50px;
+    border: none !important;
+    opacity: 0;
+    margin-right: -11px;
+    background-color: #ffffff;
+    transition: all 900ms ease;
+    -webkit-transition: all 900ms ease;
+    -ms-transition: all 900ms ease;
+    -o-transition: all 900ms ease;
+    -moz-transition: all 900ms ease;
+}
+
+.top-navbar .navbar-light .navbar-nav .nav-item.active::after{
+    opacity: 1;
+}
+
+.top-navbar .navbar-light .navbar-nav .nav-item.active .nav-link::before {
+    opacity: 1;
+    left: 40%;
+}
+.top-navbar .navbar-light .navbar-nav .nav-item.active .nav-link{
+    color: #eea412;
+}
+.top-navbar .navbar-light .navbar-nav .nav-item.active .nav-link::after{
+    opacity: 1;
+    right: 40%;
+}
+
+.top-navbar .navbar-light .navbar-nav .nav-item:hover::after{
+    opacity: 1;
+}
+
+.top-navbar .navbar-light .navbar-nav .nav-item .nav-link:hover::before{
+    opacity: 1;
+    left: 40%;
+}
+.top-navbar .navbar-light .navbar-nav .nav-item .nav-link:hover{
+    color: #eea412;
+}
+.top-navbar .navbar-light .navbar-nav .nav-item .nav-link:hover::after{
+    opacity: 1;
+    right: 40%;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown>.dropdown-toggle:active {
+    pointer-events: none;
+}
+
+.dropdown:hover>.dropdown-menu .dropdown-item{
+    padding-left: 10px;
+}
+
+
+.top-navbar.fixed-menu .bg-light {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+    visibility: visible;
+    transform: translate(0,0) scale(1);
+    transition: .3s;
+}
+
+.top-navbar .bg-light {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    box-shadow: 0 0 18px 0 rgba(0,0,0,.12);
+}
+
+.top-navbar .navbar-light .navbar-nav li .dropdown-menu {
+    box-shadow: 0 2px 12px 0 rgba(0,0,0,.12);
+    border: none;
+    border-radius: 0px;
+    margin: 0px;
+    padding: 10px;
+}
+
+.top-navbar .navbar-light .navbar-nav li .dropdown-menu a:hover{
+    background: #eea412;
+    color: #ffffff;
+}
+
+.navbar-right li a{
+    position: relative;
+    font-size: 18px;
+    display: inline-block;
+}
+.navbar-right li a,
+.navbar-right li a.hover-btn-new::after {
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.navbar-right li a.hover-btn-new::before,
+.navbar-right li a.hover-btn-new::after {
+    background: #eea412;
+    content: '';
+    position: absolute;
+    z-index: 1;
+}
+
+.navbar-right li a.hover-btn-new:hover span {
+    color: #ffffff;
+}
+.navbar-right li a.hover-btn-new::before {
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+.navbar-right li a.hover-btn-new::after {
+    background: #ffffff !important;
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+.navbar-right li a.hover-btn-new span{
+    position: relative;
+    z-index: 2;
+    color: #333333;
+}
+.navbar-right li a.hover-btn-new:hover:after {
+    height: 0;
+    left: 50%;
+    top: 50%;
+    width: 0;
+}
+
+
+.navbar-toggler{
+    background: #ffffff;
+    border-radius: 0px;
+    padding: 10px 10px;
+}
+
+.navbar-toggler .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    background: #333333;
+}
+.navbar-toggler .icon-bar + .icon-bar {
+    margin-top: 4px;
+}
+
+.navbar-toggler:hover{
+    background: #eea412;
+}
+
+.navbar-toggler:hover .icon-bar{
+    background: #ffffff;
+}
+
+
+.box-slider{
+    height: 100%;
+}
+
+
+.box-slider .carousel-control-prev{
+    border-radius: 2px;
+    background: #eea412;
+    position: absolute;
+    left: 0px;
+    font-size: 38px;
+    top: 40%;
+    width: 60px;
+    height: 60px;
+    line-height: 20px;
+    opacity: 1;
+}
+.box-slider .carousel-control-next{
+    border-radius: 2px;
+    background: #eea412;
+    position: absolute;
+    right: 0px;
+    font-size: 38px;
+    top: 40%;
+    width: 60px;
+    height: 60px;
+    line-height: 20px;
+    opacity: 1;
+}
+
+.first-section .big-tagline a{
+    background: none;
+    position: relative;
+    display: inline-block;
+    font-size: 18px;
+    color: #333333;
+    font-weight: 500;
+}
+
+
+.big-tagline a,
+.big-tagline a.hover-btn-new::after {
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.big-tagline a.hover-btn-new::before,
+.big-tagline a.hover-btn-new::after {
+    background: #fff;
+    content: '';
+    position: absolute;
+    z-index: 1;
+}
+
+.big-tagline a.hover-btn-new:hover span {
+    color: #eea412;
+}
+
+.hover-btn-new::before {
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+.hover-btn-new::after {
+    background: #eea412 !important;
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+.hover-btn-new span{
+    position: relative;
+    z-index: 2;
+}
+
+.hover-btn-new:hover:after {
+    height: 0;
+    left: 50%;
+    top: 50%;
+    width: 0;
+}
+
+
+.first-section .big-tagline a:hover{
+    color: #333333;
+}
+.box-slider .carousel-inner{
+    height: 100%;
+}
+.box-slider .carousel-item{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+/*------------------------------------------------------------------
+    SECTIONS
+-------------------------------------------------------------------*/
+
+.dbcolor{
+    background: #eea412;
+}
+
+.parallax {
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 120px 0;
+    position: relative;
+    width: 100%;
+}
+
+.parallax.parallax-off {
+    background-attachment: fixed !important;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    background-position: center center;
+    width: 100%;
+    z-index: 2;
+}
+
+.no-scroll-xy {
+    overflow: hidden !important;
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    -ms-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.section {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    padding: 70px 0;
+}
+
+.noover {
+    overflow: visible;
+}
+
+.noover .btn-dark {
+    border: 0 !important;
+}
+
+.nopad {
+    padding: 0;
+}
+
+.nopadtop {
+    padding-top: 0;
+}
+
+.section.wb {
+    background-color: #ffffff;
+}
+
+.section.lb {
+    background-color: #f2f3f5;
+}
+
+.section.db {
+    background-color: #1f1f1f;
+}
+
+.section.color1 {
+    background-color: #448AFF;
+}
+.section.cl {
+    background-color: #2d3032;
+}
+
+.hover-btn-new{
+    color: #ffffff;
+    display: inline-block;
+    font-weight: 400;
+    line-height: 46px;
+    padding: 0 17px;
+    text-transform: uppercase;
+    position: relative;
+    border: 2px solid #fff;
+    font-size: 14px;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    border-radius: 2px;
+}
+
+.orange{
+    border-color: #eea412;
+}
+
+.first-section {
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.first-section::before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    display: block;
+    background: rgba(0,0,0,0.5);
+}
+
+.first-section h2 {
+    color: #ffffff;
+    font-size: 68px;
+    font-weight: 300;
+    text-transform: capitalize;
+    display: block;
+    margin: 0;
+    padding: 0 0 30px;
+    position: relative;
+}
+
+.first-section h2 strong{
+    color: #eea412;
+}
+
+.first-section .lead {
+    font-size: 21px;
+    font-weight: 300;
+    padding: 0 0 40px;
+    margin: 0;
+    line-height: inherit;
+    color: #ffffff;
+}
+
+.macbookright {
+    width: 980px;
+    position: absolute;
+    right: -15%;
+    bottom: -6%;
+}
+
+.section-title {
+    display: block;
+    position: relative;
+    margin-bottom: 60px;
+}
+
+.section-title p {
+    color: #999;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    margin: 0;
+}
+
+.section-title h3 {
+    font-size: 42px;
+    font-weight: 500;
+    line-height: 62px;
+    margin: 0 0 25px;
+    padding: 0;
+    text-transform: none;
+}
+
+.section.colorsection p,
+.section.colorsection h3,
+.section.db h3 {
+    color: #ffffff;
+}
+
+
+.box-slider .first-section{
+    display: table;
+    position: relative;
+    width: 100%;
+}
+.dtab{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+.page-section{
+    padding: 70px 0px;
+}
+
+.customwidget a{
+    position: relative;
+    padding: 13px 40px;
+    font-size: 18px;
+    display: inline-block;
+}
+
+
+.customwidget a,
+.customwidget a.hover-btn-new::after {
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.customwidget a.hover-btn-new::before,
+.customwidget a.hover-btn-new::after {
+    background: #9dc15b;
+    content: '';
+    position: absolute;
+    z-index: 1;
+}
+
+.customwidget a.hover-btn-new:hover span {
+    color: #333333;
+}
+.customwidget a.hover-btn-new::before {
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+.customwidget a.hover-btn-new::after {
+    background: #333333 !important;
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+.customwidget a.hover-btn-new span{
+    position: relative;
+    z-index: 2;
+    color: #fff;
+}
+.customwidget a.hover-btn-new:hover:after {
+    height: 0;
+    left: 50%;
+    top: 50%;
+    width: 0;
+}
+.message-box a{
+    position: relative;
+    font-size: 18px;
+    display: inline-block;
+}
+.message-box a,
+.message-box a.hover-btn-new::after {
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+.message-box a.hover-btn-new::before,
+.message-box a.hover-btn-new::after {
+    background: #eea412;
+    content: '';
+    position: absolute;
+    z-index: 1;
+}
+
+.message-box a.hover-btn-new:hover span {
+    color: #333333;
+}
+.message-box a.hover-btn-new::before {
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+.message-box a.hover-btn-new::after {
+    background: #333333 !important;
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+.message-box a.hover-btn-new span{
+    position: relative;
+    z-index: 2;
+    color: #fff;
+}
+.message-box a.hover-btn-new:hover:after {
+    height: 0;
+    left: 50%;
+    top: 50%;
+    width: 0;
+}
+
+
+.customwidget{
+    margin-top: 30px;
+}
+
+.hmv-box{
+    padding: 60px 0px;
+}
+.inner-hmv{
+    pading:3px;}
+
+
+
+</script>
+</body>
+</html>
